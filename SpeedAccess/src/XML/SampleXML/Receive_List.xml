@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--từ id biết được appid
+từ code biết được muốn lấy danh sách action cái gì
+từ name biết được mã của cái cần lấy danh sách action theo nó-->
+<Application id="1" code="2">
+    <Name></Name>   
+</Application>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application id="1" code="2">
+    <User>
+        <ID></ID>
+        <UserName></UserName>
+        <PassWord></PassWord>
+        <PassWordFormat></PassWordFormat>
+        <Email></Email>
+        <PassWordQuestion></PassWordQuestion>
+        <PassWordAnswer></PassWordAnswer>
+        <IsApproved></IsApproved>
+        <Result></Result>
+    </User>
+</Application>

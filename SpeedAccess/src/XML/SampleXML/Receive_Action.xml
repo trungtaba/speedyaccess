@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application id="1" code="2">
+    <action>   
+        <ID>1</ID>     
+        <ActName>action1</ActName>
+        <ActDes>des1</ActDes>
+    </action>   
+</Application>

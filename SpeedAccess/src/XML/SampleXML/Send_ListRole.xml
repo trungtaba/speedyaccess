@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application id="" code="">
+    <Name></Name>
+    <Role>
+        <ID></ID>
+        <RoleName></RoleName>
+        <RoleDes></RoleDes>
+    </Role>
+    <Role>
+        <ID></ID>
+        <RoleName></RoleName>
+        <RoleDes></RoleDes>
+    </Role>
+</Application>
