@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application AppID="1" key="" code="2" ID="">
+    <name>
+        <Name></Name>
+    </name>
+    <User>
+        <UserName></UserName>
+        <Email></Email>
+        <CreateDate></CreateDate>
+        <LastLoginDate></LastLoginDate>
+        <LastLockoutDate></LastLockoutDate>
+        <LastPasswordChangedDate></LastPasswordChangedDate>
+        <LastActiveDate></LastActiveDate>
+    </User>
+</Application>

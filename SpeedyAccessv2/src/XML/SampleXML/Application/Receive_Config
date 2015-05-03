@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application id="" key ="" code="">
+    <Config>
+        <PasswordFormat></PasswordFormat>
+        <UserNameValidate></UserNameValidate>
+        <PasswordValidate></PasswordValidate>
+        <MaxFailedPassword></MaxFailedPassword>
+    </Config>
+</Application>
